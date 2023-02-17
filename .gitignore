@@ -1,3 +1,6 @@
 
 output
 output/*
+.idea/website_proxy_scraper.iml
+*.xml
+.idea/
